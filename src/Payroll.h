@@ -1,11 +1,7 @@
-#ifndef _PAYROLL_H
-
-
-
-
-
-
 #define _PAYROLL_H
+#include <string>
+
+using namespace std;
 
 string getName();
 char getCat();
