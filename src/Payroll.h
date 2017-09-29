@@ -1,3 +1,4 @@
+#ifndef _PAYROLL_H
 #define _PAYROLL_H
 #include <string>
 
